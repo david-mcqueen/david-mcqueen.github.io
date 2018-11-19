@@ -1,18 +1,26 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This is my blog. There are many like it, but this one is mine. 
+===
 
 
-[jekyll-organization]: https://github.com/jekyll
+Thoughts, projects, experimental thought projects.
+
+I write about all, some, or none of the above. Maybe even something completly different. 
+
+Where will it take me? I don't know. 
+
+Will I still be me when I come out the other side? I don't know. 
+
+What is the other side? Is there even an _other side_? I don't know.
+
+I might not have answers, but I have questions.
+
+Will this blog have both? I don't know.
+
+This is my blog. I must master it as I master my life. My blog, without me, is useless.
+
+Without my blog I am just talking to myself...
