@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2018-11-22 22:13:00 +0000
-categories: jekyll update
+categories: blog posts
 ---
 
 # As is tradition.
