@@ -2,7 +2,7 @@
 layout: post
 title:  "Two-Factor, How?"
 date:   2018-12-16 09:26:00 +0000
-categories: code projects research
+categories: jekyll update
 ---
 
 # Enter your authentication code to continue...
