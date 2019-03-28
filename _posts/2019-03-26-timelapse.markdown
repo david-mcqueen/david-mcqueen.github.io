@@ -81,7 +81,7 @@ Moving the resize and Write logic into its own function meant that each image wo
 My bespoke generic timelapse application &copy; creates a video as its output, which isn't very web friendly. Using our favourite tool for converting video files, [FFmpeg](https://ffmpeg.org/), I simply converted it to a gif file.
 
 ```javascript
-    ffmpeg -i timelapse.avi -vf scale=128:-1 timelapse.gif
+ffmpeg -i timelapse.avi -vf scale=128:-1 timelapse.gif
 ```
 Stick a fork in ~~me~~ it...
 
