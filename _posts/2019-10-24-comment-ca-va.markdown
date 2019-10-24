@@ -24,7 +24,7 @@ I have started many projects which have achieved the bare minimum I wanted from 
 
 I don't think I had fully, consciouslly, realised this until I read the following tweet by Scott Hanselman.
 
-![Blog for me](/assets/images/comment-ca-va/blog-for-me.png)
+![Blog for me](/assets/images/comment-ca-va/blog_for_me.png)
 https://twitter.com/shanselman/status/1185791706827874304
 
 (For some reason the embedded tweet isnt working...)
@@ -33,6 +33,8 @@ Within that Twitter conversation are some interesting comments, and a follow up 
 
 
 https://twitter.com/shanselman/status/1187413836782899200
+
+![Correct Mistakes](/assets/images/comment-ca-va/correct_mistakes.png)
 
 This is very valid and one thing that is a concern of mine. I take the effort to ensure that I am not blogging misinformation, however this blog is a platform for me to learn so there is inevitably going to be people out there who have way more knowledge about specific things than I do. There is a chance that I could be wrong, despite my best efforts. The above Tweet from Scott got me thinking, I don't have any way of soliciting feedback. If I am wrong then there is a limited (if any) way people can get in touch with me to inform me of my mistake and allow me to correct said mistake.
 
