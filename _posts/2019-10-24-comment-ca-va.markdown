@@ -24,8 +24,10 @@ I have started many projects which have achieved the bare minimum I wanted from 
 
 I don't think I had fully, consciouslly, realised this until I read the following tweet by Scott Hanselman.
 
+![Blog for me](/assets/images/comment-ca-va/blog-for-me.png)
 https://twitter.com/shanselman/status/1185791706827874304
 
+(For some reason the embedded tweet isnt working...)
 
 Within that Twitter conversation are some interesting comments, and a follow up by Scott regarding blogging something which is *wrong* specifically peaked my interest
 
